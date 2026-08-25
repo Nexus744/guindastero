@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guindastero</string>
+    <string name="status_disconnected">Desconectado</string>
+    <string name="status_connecting">Conectando...</string>
+    <string name="status_connected">Conectado ao HC-05</string>
+    <string name="status_connection_lost">Conexão perdida</string>
+    <string name="status_reconnecting">Reconectando...</string>
+    <string name="button_connect">Conectar</string>
+    <string name="button_disconnect">Desconectar</string>
+    <string name="button_voice">🎤 Falar</string>
+    <string name="button_emergency_stop">🛑 PARADA DE EMERGÊNCIA</string>
+    <string name="button_lift_up">▲ Levantar</string>
+    <string name="button_lift_down">▼ Baixar</string>
+    <string name="button_hook_open">🔓 Abrir</string>
+    <string name="button_hook_close">🔒 Fechar</string>
+    <string name="voice_listening">Ouvindo...</string>
+    <string name="voice_recognized">Comando reconhecido: %s</string>
+    <string name="voice_not_recognized">Comando não reconhecido</string>
+    <string name="voice_error">Erro no reconhecimento de voz</string>
+    <string name="menu_device_select">Selecionar Dispositivo</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="device_list_empty">Nenhum dispositivo pareado encontrado</string>
+</resources>
